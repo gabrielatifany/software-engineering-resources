@@ -34,7 +34,7 @@ Topics:
 - Data Structures and Algorithms
 - Mathematics
 
-**COMPUTER SYSTEMS**  
+## COMPUTER SYSTEMS
 
 beginner:
 - (video) A very visual Computer Hardware video
@@ -44,7 +44,7 @@ intermediate:
 - (book) Computer Systems: A programmer's perspective
   https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
 
-**OPERATING SYSTEMS**  
+## OPERATING SYSTEMS
 
 beginner:
 - (video) Operating System Full Course 3.5 hours video
@@ -56,7 +56,7 @@ intermediate:
 - (book) Operating Systems: Three Easy Pieces
   https://pages.cs.wisc.edu/~remzi/OSTEP/
 
-**COMPUTER NETWORKING**  
+## COMPUTER NETWORKING
 
 beginner:
 - (video) Series of Computer Networks video courses by Neso Academy
@@ -73,7 +73,6 @@ Topics:
 - Linux
 - Linux System Administration
 - Bash Scripting and CLI
-- 
 
 # PROGRAMMING
 
