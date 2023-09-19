@@ -39,6 +39,8 @@ Topics:
 beginner:
 - (video) A very visual Computer Hardware video
   https://youtu.be/d86ws7mQYIg?si=rLFZnEgKBaGuHqRF
+- (book) CompTIA IT Fundamentals Study Guide
+  https://www.amazon.com/CompTIA-Fundamentals-ITF-Study-Guide/dp/111951312X
   
 intermediate:
 - (book) Computer Systems: A programmer's perspective
