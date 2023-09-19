@@ -10,10 +10,10 @@ https://teachyourselfcs.com/
 But for others who has spare time to study more, I have curated a list of resources for you.
 
 **General Main Topics**:
-- Fundamental Computer Science
-- System Administration
-- Programming
-- Software Development
+- Fundamental Computer Science (understanding how computers work, algorithms and data structures, underlying computer systems. (hardware centric))
+- System Administration (understanding how computer systems work by knowing how to administer one. (software centric))
+- Programming (knowing how to write computer programs. as in, simple programs with simple functions)
+- Software Development (knowing how to develop software programs. mid-scale programs that has many functionalities)
 
 **Specialized Main Topics**: (non-exhaustive list)
 - Cloud Computing
@@ -24,7 +24,7 @@ But for others who has spare time to study more, I have curated a list of resour
 - Site-Reliability Engineering
 
   
-## Fundamental Computer Science
+## FUNDAMENTAL COMPUTER SCIENCE
 
 Topics:
 - Computer Systems
