@@ -18,28 +18,28 @@ Main Topics:
 - Data Structures and Algorithms
 - Mathematics
 
-COMPUTER SYSTEMS 
+COMPUTER SYSTEMS<br>
 beginner:
-- (video) A very visual Computer Hardware video
-  https://youtu.be/d86ws7mQYIg?si=rLFZnEgKBaGuHqRF
+- (video) A very visual Computer Hardware video<br>
+  https://youtu.be/d86ws7mQYIg?si=rLFZnEgKBaGuHqRF<br>
 intermediate:
-- (book) Computer Systems: A programmer's perspective
+- (book) Computer Systems: A programmer's perspective<br>
   https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
 
-OPERATING SYSTEMS
+OPERATING SYSTEMS<br>
 beginner:
-- (video) Operating System Full Course 3.5 hours video
+- (video) Operating System Full Course 3.5 hours video<br>
   https://youtu.be/mXw9ruZaxzQ
-- (video) Series of Operating System video courses by Neso Academy
-  https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
+- (video) Series of Operating System video courses by Neso Academy<br>
+  https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O<br>
 intermediate:
 - (book) Operating Systems: Three Easy Pieces
   https://pages.cs.wisc.edu/~remzi/OSTEP/
 
-COMPUTER NETWORKING 
+COMPUTER NETWORKING<br>
 beginner:
-- (video) Series of Computer Networks video courses by Neso Academy
-  https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx
+- (video) Series of Computer Networks video courses by Neso Academy<br>
+  https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx<br>
 intermediate:
 - (book) Computer Networking: A Top-down Approach
   https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
