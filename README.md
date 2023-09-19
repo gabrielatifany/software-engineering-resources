@@ -25,7 +25,7 @@ But for others who has spare time to study more, I have curated a list of resour
 - Site-Reliability Engineering
 
   
-## FUNDAMENTAL COMPUTER SCIENCE
+# FUNDAMENTAL COMPUTER SCIENCE
 
 Topics:
 - Computer Systems
