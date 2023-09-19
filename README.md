@@ -1,6 +1,7 @@
 # SOFTWARE ENGINEERING RESOURCES
+## (ONGOING)
 
-Welcome. Feel free to explore around. I've collected tons of wonderful information that will help you in your tech career journey.
+Welcome. Feel free to explore around. I've collected tons of wonderful information that will help you in your tech career journey. Keep in mind though, this guide is backend centric instead of front-end. but the general main topics are still useful for anyone.
 
 Before we begin. I'd like to talk about how your learning journey will be completely different depending on goal, timeline, and resources.
 
@@ -64,3 +65,16 @@ beginner:
 intermediate:
 - (book) Computer Networking: A Top-down Approach
   https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
+
+
+# SYSTEM ADMINISTRATION
+
+Topics:
+- Linux
+- Linux System Administration
+- Bash Scripting and CLI
+- 
+
+# PROGRAMMING
+
+# SOFTWARE DEVELOPMENT
