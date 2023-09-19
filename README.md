@@ -1,4 +1,4 @@
-# Software Engineering Resources
+# SOFTWARE ENGINEERING RESOURCES
 
 Welcome. Feel free to explore around. I've collected tons of wonderful information that will help you in your tech career journey.
 
@@ -9,9 +9,24 @@ https://teachyourselfcs.com/
 
 But for others who has spare time to study more, I have curated a list of resources for you.
 
-## FUNDAMENTAL COMPUTER SCIENCE
+**General Main Topics**:
+- Fundamental Computer Science
+- System Administration
+- Programming
+- Software Development
 
-Main Topics:
+**Specialized Main Topics**: (non-exhaustive list)
+- Cloud Computing
+- Artificial Intelligence and ML
+- DevOps
+- Security
+- Software Design and Architecture
+- Site-Reliability Engineering
+
+  
+## Fundamental Computer Science
+
+Topics:
 - Computer Systems
 - Operating Systems
 - Computer Networking
